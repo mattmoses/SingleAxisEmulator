@@ -9,7 +9,7 @@ The block diagram below illustrates the basic principle of operation. The microc
 ![alt text](https://raw2.github.com/mattmoses/SingleAxisEmulator/master/blockDiagram.png)
 
 **_Downloads_**   
-[Schematic](https://github.com/mattmoses/SingleAxisEmulator/singleAxisMotor3.pdf)   
+[Schematic](https://github.com/mattmoses/SingleAxisEmulator/blob/master/singleAxisMotor3.pdf)   
 Code   
 Gerber Files   
 Eagle PCB Files   
