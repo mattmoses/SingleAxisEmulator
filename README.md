@@ -3,6 +3,7 @@
 ### Overview
 
 
+
 ![alt text](https://raw2.github.com/mattmoses/SingleAxisEmulator/master/blockDiagram.png)
 
 ### Downloads
@@ -12,8 +13,7 @@
 
 If you would like to reference this work in a publication, please refer to the url and cite this paper:
 
-    dfadsfadsf
-	sadfdsafdsa
-	dsafdsafdsa
+
 	
 	[An architecture for universal construction via modular robotic components](http://dx.doi.org/10.1016/j.robot.2013.08.005)
+
