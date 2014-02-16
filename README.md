@@ -8,9 +8,12 @@ The block diagram below illustrates the basic principle of operation. The microc
 
 ![alt text](https://raw2.github.com/mattmoses/SingleAxisEmulator/master/blockDiagram.png)
 
-
 **_Downloads_**
-
+Schematic
+Code
+Gerber Files
+Eagle PCB Files
+Parts List
 
 **_License_**   
 This work is licensed under the [GNU General Public License](http://www.gnu.org/licenses/gpl.html).
