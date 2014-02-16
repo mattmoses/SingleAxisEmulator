@@ -13,7 +13,7 @@ This is a simple DC brushed motor controller with encoder feedback, step-directi
 This work is licensed under the [GNU General Public License](http://www.gnu.org/licenses/gpl.html).
 
 **_How to Cite_**   
-If you would like to reference this work in a publication, please refer to the github url and cite this paper:
+If you would like to reference this work in a publication, please refer to the [github url](https://github.com/mattmoses/SingleAxisEmulator) and cite this paper:
 
 [An architecture for universal construction via modular robotic components](http://dx.doi.org/10.1016/j.robot.2013.08.005)    
 *Robotics and Autonomous Systems*   
