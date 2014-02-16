@@ -2,7 +2,7 @@
 **_Description:_** 
 
 
-![alt text](https://github.com/mattmoses/SingleAxisEmulator/raw/master/BlockDiagram.png)
+![alt text](https://github.com/mattmoses/SingleAxisEmulator/blob/master/BlockDiagram.png)
 
 
 
