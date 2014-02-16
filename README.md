@@ -4,7 +4,7 @@
 This is a simple DC brushed motor controller with encoder feedback, step-direction interface, and optical home switch. It was originally built for a modular robotics application using low-power DC motors and very coarse (low resolution) encoders. This circuit may find application in CNC and 3D printing applications, but it is likely that certain modifications will need to be made (in software for example) to make use of higher resolution encoders. 
 
 **_Principle of Operation_**   
-The block diagram below illustrates the basic principle of operation. The microcontroller is a Microchip PIC XXXX and the motor controller is a LMD18200.
+The block diagram below illustrates the basic principle of operation. The microcontroller is a Microchip PIC 18F1320 and the motor controller is a LMD18200.
 
 ![alt text](https://raw2.github.com/mattmoses/SingleAxisEmulator/master/blockDiagram.png)
 
