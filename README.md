@@ -2,6 +2,11 @@
 **_Description:_** 
 
 
+![alt text](https://github.com/mattmoses/SingleAxisEmulator/raw/master/BlockDiagram.png)
+
+
+
+
 dfdsafasdfd
 
 
