@@ -26,5 +26,14 @@ If you would like to reference this work in a publication, please refer to the [
 Matthew S. Moses, Hans Ma, Kevin C. Wolfe, Gregory S. Chirikjian (2013)
 
 **_Credits_**   
-This work was performed in 
+This work was performed in [Gregory Chirikjian's](http://scholar.google.com/citations?user=qoIuyMoAAAAJ) [Robot & Protein Kinematics Lab](https://rpk.lcsr.jhu.edu/Publications) at Johns Hopkins University. The work was partially supported by the National Science Foundation under Grant No. IIS-0915542. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+
+Matt Moses created the schematic and ciruit board layout.    
+Kevin C. Wolfe authored the initial version of the control software.   
+Matt Moses modified Kevin's original code.   
+John Swensen provided helpful advice.
+
+
+
+
 
