@@ -10,7 +10,7 @@ The block diagram below illustrates the basic principle of operation. The microc
 
 **_Downloads_**   
 [Schematic](https://github.com/mattmoses/SingleAxisEmulator/blob/master/singleAxisMotor3.pdf)   
-Code   
+[Code](https://github.com/mattmoses/SingleAxisEmulator/tree/master/verticalMotor)     
 [Gerber Files](https://github.com/mattmoses/SingleAxisEmulator/tree/master/gerbers)   
 [Eagle PCB Files](https://github.com/mattmoses/SingleAxisEmulator/tree/master/eagleFiles)     
 [Parts List](https://github.com/mattmoses/SingleAxisEmulator/blob/master/singleAxisMotor3_parts.txt)   
