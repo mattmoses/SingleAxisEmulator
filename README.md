@@ -31,7 +31,7 @@ This work was performed in [Gregory Chirikjian's](http://scholar.google.com/cita
 Matt Moses created the schematic and ciruit board layout.    
 Kevin Wolfe created the custom part library "modular_robot_parts.lbr".   
 Kevin Wolfe authored the initial version of the control software.   
-Matt Moses modified Kevin's original code.   
+Matt Moses modified Kevin's original code. (Good parts belong to Kevin. Bad parts are Matt's fault.)   
 John Swensen provided helpful advice.
 
 
