@@ -13,7 +13,7 @@ The block diagram below illustrates the basic principle of operation. The microc
 Code   
 [Gerber Files](https://github.com/mattmoses/SingleAxisEmulator/tree/master/gerbers)   
 [Eagle PCB Files](https://github.com/mattmoses/SingleAxisEmulator/tree/master/eagleFiles)     
-Parts List   
+[Parts List](https://github.com/mattmoses/SingleAxisEmulator/blob/master/singleAxisMotor3_parts.txt)   
 
 **_License_**   
 This work is licensed under the [GNU General Public License](http://www.gnu.org/licenses/gpl.html).
