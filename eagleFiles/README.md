@@ -1,0 +1,1 @@
+These are schematic and PCB layout files created in Eagle PCB.
