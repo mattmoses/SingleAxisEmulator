@@ -9,6 +9,9 @@ This is a simple DC brushed motor controller with encoder feedback, step-directi
 **_Downloads_**
 
 
+**_License_**   
+This work is licensed under the [GNU General Public License](http://www.gnu.org/licenses/gpl.html).
+
 **_How to Cite_**   
 If you would like to reference this work in a publication, please refer to the github url and cite this paper:
 
