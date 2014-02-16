@@ -1,14 +1,19 @@
 # Single Axis Stepper Motor Emulator
-**_Description:_** 
+
+### Overview
 
 
-![alt text](https://github.com/mattmoses/SingleAxisEmulator/blob/master/blockDiagram.png)
+![alt text](https://raw2.github.com/mattmoses/SingleAxisEmulator/master/blockDiagram.png)
+
+### Downloads
 
 
+### Citing the work
 
+If you would like to reference this work in a publication, please refer to the url and cite this paper:
 
-dfdsafasdfd
-
-
-
-http://dx.doi.org/10.1016/j.robot.2013.08.005
+    dfadsfadsf
+	sadfdsafdsa
+	dsafdsafdsa
+	
+	[An architecture for universal construction via modular robotic components](http://dx.doi.org/10.1016/j.robot.2013.08.005)
