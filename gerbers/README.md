@@ -5,7 +5,6 @@ Here are the layers:
 | Layer            | Ext. |
 |:----------------:|:----:|
 |Bottom Copper     | GBL  |
-|Bottom Silkscreen | GBO  |
 |Bottom Soldermask | GBS  |
 |Top Copper        | GTL  |
 |Top Silkscreen    | GTO  |
