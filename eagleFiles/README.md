@@ -7,8 +7,8 @@ Custom part library 2: modular_robot_parts.lbr (Kevin Wolfe)
 
 
 
-![alt text](https://raw2.github.com/mattmoses/SingleAxisEmulator/master/eagleFiles/bottomSideComponentPlacement.png)
+![alt text](bottomSideComponentPlacement.png)
 
-![alt text](https://raw2.github.com/mattmoses/SingleAxisEmulator/master/eagleFiles/topSideComponentPlacement.png)
+![alt text](topSideComponentPlacement.png)
 
 
