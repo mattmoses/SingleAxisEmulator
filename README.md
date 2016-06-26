@@ -7,6 +7,7 @@ This is a simple DC brushed motor controller with encoder feedback, step-directi
 The block diagram below illustrates the basic principle of operation. The microcontroller is a Microchip PIC 18F1320 and the motor driver is a LMD18200. Depending on the level of the Direction input, pulses on the Step line will increment or decrement an internal counter in the PIC. A separate counter tracks the actual position of the motor by decoding encoder pulses. An error signal is defined by the difference of the counter representing desired position and the one representing actual position. The LMD18200 receives a motor command that is simply proportional to the error. PID control is possible but not currently used. If the Step input is held high for longer than a certain threshold, the controller switches state to "homing mode" in which it runs the motor at constant speed until the optical home switch is activated. After the home switch is activated the controller returns to normal operation.
 
 ![alt text](https://raw2.github.com/mattmoses/SingleAxisEmulator/master/blockDiagram.png)
+![alt text](blockDiagram.png)
 
 **_Downloads_**   
 [Schematic](https://github.com/mattmoses/SingleAxisEmulator/blob/master/singleAxisMotor3.pdf)   
